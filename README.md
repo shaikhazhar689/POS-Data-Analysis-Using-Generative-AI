@@ -1,4 +1,4 @@
-## Savita's Boutique Point of Sales Data Analysis (Python Coding Using Generative AI, Prompt Engineering)
+## Savita's Boutique (Fashion Retail) Point of Sales Data Analysis (Python Coding Using Generative AI, Prompt Engineering)
 ### Overview
 Welcome to the repository for the analysis of Savita's Boutique point of sales data. In this project, we dive into the world of retail analytics, exploring customer clusters, supplier insights, and more, all powered by the efficiency of generative AI.
 
