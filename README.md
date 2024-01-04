@@ -2,7 +2,7 @@
 ### Overview
 Welcome to the repository for the analysis of Savita's Boutique point of sales data. In this project, we dive into the world of retail analytics, exploring customer clusters, supplier insights, and more, all powered by the efficiency of generative AI.
 
-***How Generative AI Streamlines the Analysis ***
+### ***How Generative AI Streamlines the Analysis***
 1. **RFM Analysis with Speed and Precision**
 What is RFM? - Recency, Frequency, Monetary (RFM) analysis is a powerful method to understand customer behavior.
 Generative AI's Role - By leveraging generative AI, particularly GPT-3.5, we automated code generation for complex RFM calculations. This significantly sped up the process and ensured precision in defining customer segments.
